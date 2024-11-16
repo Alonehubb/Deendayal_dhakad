@@ -268,7 +268,7 @@ Requested by : {message.from_user.mention}</b>"""
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ 𝐷𝑒𝑒𝑛𝑑𝑎𝑦𝑎𝑙_𝑑ℎ𝑎𝑘𝑎𝑑 ]</code>
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ mrkillersss ]</code>
 </b>"""
 
     LOGO = """
